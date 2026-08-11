@@ -75,9 +75,17 @@ if (Test-Path $zipName) {
     Remove-Item $zipName -Force
 }
 
-# Excluir arquivos desnecessários
-$exclude = @(".git", "*.zip", "*.ps1", "*.md", ".gitignore", "UPDATES_SYSTEM.md")
-Get-ChildItem -Exclude $exclude | Compress-Archive -DestinationPath $zipName -Force
+# Incluir apenas os arquivos necessários para o mod
+$include = @(
+    "manifest.json",
+    "main.lua",
+    ".luarc.json",
+    "lang",
+    "overrides",
+    "assets"
+)
+
+Compress-Archive -Path $include -DestinationPath $zipName -Force
 
 Write-Success "   ✅ $zipName criado"
 
