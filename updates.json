@@ -1,19 +1,19 @@
 {
   "latest_version": "0.2.0 (2026-08-11)",
   "download_url": "https://github.com/raphabarreto/versaovermelha-moves-en/releases/latest/download/versaovermelha-moves-en.zip",
-  "changelog": "Adicionado sistema de check de updates automático",
+  "changelog": "Correções de efeitos de batalha + sistema de updates automático",
   "versions": [
     {
       "version": "0.2.0 (2026-08-11)",
       "date": "2026-08-11",
       "download_url": "https://github.com/raphabarreto/versaovermelha-moves-en/releases/download/v0.2.0/versaovermelha-moves-en.zip",
-      "changelog": "• Sistema de check de updates automático\n• Notificações de novas versões\n• Download direto pelo gen1recomp"
+      "changelog": "• Corrigido 'LEECH SEED saps' para 'LEECH SEED drena'\n• Traduzido textos do golpe SUBSTITUTE\n• Traduzido texto do golpe RAGE\n• Traduzido texto do golpe MIRROR MOVE\n• Traduzido mensagens das HMs (FLASH, SURF, CUT, STRENGTH)\n• Traduzido menu 'FLY TO?'\n• Sistema de check de updates automático"
     },
     {
-      "version": "1.0.0 (2026-08-10)",
-      "date": "2026-08-10",
-      "download_url": "https://github.com/raphabarreto/versaovermelha-moves-en/releases/download/v1.0.0/versaovermelha-moves-en.zip",
-      "changelog": "• Full PT-BR translation\n• English move names\n• Status effects in English\n• Compatible with most QoL mods"
+      "version": "0.1.0 (2026-08-11)",
+      "date": "2026-08-11",
+      "download_url": "https://github.com/raphabarreto/versaovermelha-moves-en/releases/download/v0.1.0/versaovermelha-moves-en-v0.1.0.zip",
+      "changelog": "• História e diálogos 100% em português brasileiro\n• Nomes de golpes em inglês (padrão competitivo)\n• Textos de batalha em português\n• Status effects em inglês (PSN, BRN, PAR, FRZ, SLP)\n• Baseado na tradução Hyd~Traduções v1.3.1"
     }
   ]
 }
