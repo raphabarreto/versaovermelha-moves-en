@@ -88,7 +88,7 @@ Distributed for free use in the Pokémon community.
 ## 🔗 Links
 
 - Report bugs: [GitHub Issues](https://github.com/raphabarreto/versaovermelha-moves-en/issues)
-- Follow updates: [@raphalugs](https://twitter.com/raphalugs)
+- Discussion/Support: Discord **@raphalugs**
 
 ---
 
