@@ -2,7 +2,9 @@
 
 Brazilian Portuguese translation with **English move names** for a hybrid experience.
 
-Based on **Hyd~Traduções Pokémon Versão Vermelha v1.3.1** IPS patch.
+**Based on:**
+- 📦 [bryanthaboi/versaovermelha](https://github.com/bryanthaboi/versaovermelha) - gen1recomp mod structure
+- 🇧🇷 **Hyd~Traduções Pokémon Versão Vermelha v1.3.1** IPS patch - original translation
 
 ## ✨ Features
 
