@@ -58,9 +58,10 @@ Brazilian Portuguese translation with **English move names** for a hybrid experi
 - Gameplay mods (trade_evolution_fix, quality_of_life, etc.)
 
 ### ⚠️ Known Conflicts:
-- **CRYSTAL_251** - Both mods modify translations extensively
-  - **Workaround:** Disable CRYSTAL_251 to use this mod
-  - We're investigating a fix for future versions!
+- **[CRYSTAL_251](https://github.com/Deftones565/gen1recomp-mod-crystal-251)** - Full Gen II overhaul that modifies translations, dialogues, and moves
+  - **Why it conflicts:** Both mods modify the same text/translation files
+  - **Workaround:** Disable CRYSTAL_251 to use this mod, or use CRYSTAL_251 alone (it's in English)
+  - **Future:** We're investigating compatibility for a future version
 
 ## 🐛 Troubleshooting
 
