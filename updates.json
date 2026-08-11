@@ -1,0 +1,13 @@
+{
+  "latest_version": "1.0.0 (2026-08-10)",
+  "download_url": "https://github.com/raphabarreto/versaovermelha-moves-en/releases/latest/download/versaovermelha-moves-en.zip",
+  "changelog": "Initial release with PT-BR story and English move names",
+  "versions": [
+    {
+      "version": "1.0.0 (2026-08-10)",
+      "date": "2026-08-10",
+      "download_url": "https://github.com/raphabarreto/versaovermelha-moves-en/releases/download/v1.0.0/versaovermelha-moves-en.zip",
+      "changelog": "• Full PT-BR translation\n• English move names\n• Status effects in English\n• Compatible with most QoL mods"
+    }
+  ]
+}
